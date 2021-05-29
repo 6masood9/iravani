@@ -1,0 +1,5 @@
+/node_modules/
+/vendor/
+/storage/framework/
+/storage/logs/
+/.idea/
